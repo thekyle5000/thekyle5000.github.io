@@ -1,0 +1,63 @@
+@font-face {
+  font-family: plex-light;
+  src: url('./fonts/light.woff');
+}
+
+@font-face {
+  font-family: plex-regular;
+  src: url('./fonts/regular.ttf');
+}
+
+body {
+  background-color: lightgray;
+}
+
+.main {
+  padding-left: 2.5rem;
+  display: block;
+}
+
+a {
+  color: blue
+}
+
+
+li {
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: green
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  font-family: plex-light
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 300;
+  font-family: plex-light
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 300;
+  font-family: plex-light
+}
+
+p, small {
+  font-family: plex-regular
+}
+
+.bio {
+  max-width: 500px;
+  display: block;
+}
+
+
+
+
+

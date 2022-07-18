@@ -37,6 +37,10 @@ h1 {
   font-family: plex-light
 }
 
+.title {
+  margin-bottom: 0px;
+}
+
 h2 {
   font-size: 2rem;
   font-weight: 300;
@@ -45,6 +49,12 @@ h2 {
 
 h3 {
   font-size: 1.75rem;
+  font-weight: 300;
+  font-family: plex-light
+}
+
+h4 {
+  font-size: 1.5rem;
   font-weight: 300;
   font-family: plex-light
 }

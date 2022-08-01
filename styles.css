@@ -9,8 +9,8 @@
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: rgb(245, 245, 245);
+  /* color: white; */
 }
 
 .main {
@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  color: rgb(0, 255, 0)
+  color: rgb(0, 0, 255)
 }
 
 

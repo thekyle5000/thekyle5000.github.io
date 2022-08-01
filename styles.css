@@ -9,7 +9,8 @@
 }
 
 body {
-  background-color: lightgray;
+  background-color: black;
+  color: white;
 }
 
 .main {
@@ -17,11 +18,10 @@ body {
   display: block;
   padding-bottom: 2.5rem;
   padding-right: 2.5rem;
-
 }
 
 a {
-  color: blue
+  color: rgb(0, 255, 0)
 }
 
 
